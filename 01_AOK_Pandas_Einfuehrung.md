@@ -18,7 +18,7 @@ Diese Einheit vermittelt dir die Grundlagen zur Installation und ersten Nutzung 
 
 
     --{{0}}--
-!?[](https://github.com/OVGU-VET-TechEd/AOK-Fachinformatik/blob/main/media/Pandas%20Development.mp4)
+!?[](https://github.com/OVGU-VET-TechEd/AOK-Fachinformatik/blob/main/media/Pandas%20Development.mp4?raw=true)
 
 ** The AI will explain, please listen carefully ** 
 
