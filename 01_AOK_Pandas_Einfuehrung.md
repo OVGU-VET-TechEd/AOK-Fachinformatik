@@ -95,10 +95,10 @@ Dieser Befehl importiert Pandas unter dem Alias `pd`, was in der Praxis Standard
 
 Welche Aussage ist korrekt?
 
-\[( )] Pandas ist eine Datenbank.
-\[( )] Pandas ist eine Visualisierungsbibliothek wie matplotlib.
-\[(X)] Pandas dient der Datenanalyse und -verarbeitung.
-\[( )] Pandas kann nur mit CSV-Dateien arbeiten.
+[( )] Pandas ist eine Datenbank.
+[( )] Pandas ist eine Visualisierungsbibliothek wie matplotlib.
+[(X)] Pandas dient der Datenanalyse und -verarbeitung.
+[( )] Pandas kann nur mit CSV-Dateien arbeiten.
 
 \-- Bei Fehlern: Hinweis --
 
